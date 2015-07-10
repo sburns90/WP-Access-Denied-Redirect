@@ -1,7 +1,7 @@
 <?php
 /*
    Plugin Name: Access Denied Redirect
-   Plugin URI: http://www.StephenBurns.net
+   Plugin URI: https://www.github.com/sburns90/WP-Access-Denied-Redirect/
    Description: Redirect users to the login page when they normally would receive an access denied message. ONLY enable on the PRIMARY site of a multisite install.
    Version: 1.0
    Author: Stephen Burns
